@@ -1,0 +1,8 @@
+{
+  "bytes": 7528,
+  "states": 8,
+  "transitions": 52,
+  "pureResponses": 20,
+  "firstPlayerWinProbability": 0.5500000000000002,
+  "secondPlayerWinProbability": 0.4500000000000001
+}
